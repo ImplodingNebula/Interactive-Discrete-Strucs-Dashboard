@@ -43,7 +43,7 @@ The app should automatically launch in a new browser window. If not, then open t
 ## Project structure
 
 ```shell
-├── .venv/ # Local virtual environment created by uv (not committed ideally)
+├── .venv/ # Local virtual environment created by uv (not committed - appears locally when you initialize the environment)
 ├── .python-version # Python version hint for tools like uv/pyenv
 ├── main.py # Streamlit app entry point (all pages live here)
 ├── pyproject.toml # Project metadata and dependencies managed by uv
