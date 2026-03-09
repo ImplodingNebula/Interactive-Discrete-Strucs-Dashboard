@@ -2,6 +2,8 @@
 
 Interactive Streamlit app (using `uv`) to explore simple graphs, trees, spanning trees/MSTs, and planarity/Euler/Hamiltonian concepts.
 
+- Co-made with [@Samwin88](https://github.com/Samwin88) 
+
 ## Prerequisites
 
 -   Python `3.14.x` installed
